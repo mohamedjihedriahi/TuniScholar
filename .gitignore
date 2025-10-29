@@ -1,0 +1,14 @@
+node_modules
+data
+table.txt
+.aider*
+venv
+faiss_cohere_index
+faiss_index
+.env
+.streamlit/secrets.toml
+.venv
+__pycache__
+.venv/
+__pycache__/
+.env

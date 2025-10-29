@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+openai
+langchain-community 
+langchain-core
+langchain-openai
+jq
+azure-ai-inference
+langchain_azure_ai
+langchain_cohere
+ipython
+faiss-cpu
+sentence-transformers
+parsel
+scholarly
+requests
