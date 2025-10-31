@@ -18,7 +18,7 @@ This project analyzes the research impact of Tunisian scholars ### Option 3: Qui
 - **Data Source**: Google Scholar
 - **Scholars**: 5945 Tunisian scholars from different universities and research fields.
 - **Objective**: Reflect the real impact and contribution of Tunisian universities on global research and higher education quality.
-
+![Alt text](Tunischolar_gif.gif)
 ---
 
 ## 📈 Significant Statistics
